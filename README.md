@@ -1,4 +1,4 @@
-Clone of Example Voting App
+Clone of Docker Example Voting App
 =========
 
 Getting started
